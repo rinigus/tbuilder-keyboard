@@ -1,0 +1,9 @@
+[submodule "src/pkg-marisa"]
+	path = src/pkg-marisa
+	url = https://github.com/rinigus/pkg-marisa
+[submodule "src/presage"]
+	path = src/presage
+	url = https://github.com/sailfish-keyboard/presage
+[submodule "src/sailfishos-presage-predictor"]
+	path = src/sailfishos-presage-predictor
+	url = https://github.com/sailfish-keyboard/sailfishos-presage-predictor

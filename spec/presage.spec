@@ -1,0 +1,1 @@
+../src/presage/rpm/presage.spec

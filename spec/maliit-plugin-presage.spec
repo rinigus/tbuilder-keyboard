@@ -1,0 +1,1 @@
+../src/sailfishos-presage-predictor/rpm/maliit-plugin-presage.spec
